@@ -2219,5 +2219,5 @@ footer p.title{
 
 
 .main_header_area{
-    z-index: 99;
+    z-index: 99 !important;
 }

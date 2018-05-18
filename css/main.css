@@ -2215,3 +2215,9 @@ footer p.title{
         white-space: nowrap;
     }
 }
+
+
+
+.main_header_area{
+    z-index: 99;
+}
